@@ -425,7 +425,7 @@
                         "title": "Navratri Special Bollywood Gujarati Latest Dandiya Mix Garba",
                         "subTitle": "",
                         "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Navratri+Special+Bollywood+Gujarati+Latest+Dandiya+Mix+Garba+2023.mp3",
-                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/crop_480x480_241103",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/crop_480x480_241103.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     },
@@ -433,7 +433,7 @@
                         "title": "Sharad Poonam Garba",
                         "subTitle": "",
                         "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Sharad+Poonam+Garba+Special+Non+Stop+Garba.mp3",
-                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/crop_480x480_241103",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/crop_480x480_241103.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     }
@@ -592,7 +592,7 @@
             {
                 "listName": "Aarti Ringtone",
                 "isDisplay": true,
-                "itemDisplay": 4,
+                "itemDisplay": 3,
                 "songs": [
                     {
                         "title": "Jay Adhya Shakti",
