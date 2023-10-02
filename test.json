@@ -9,14 +9,6 @@
                 "itemDisplay": 4,
                 "songs": [
                     {
-                        "title": "Airtel Dandiya",
-                        "subTitle": "",
-                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/airtel-dandiya-navratri-song-ringtone.mp3",
-                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Airtel-Celebrates-Navratri-Festival-With-mGolu-Contest.jpg",
-                        "downloadLink": "",
-                        "otherImageItems": []
-                    },
-                    {
                         "title": "Pavli Lay Ne Hu To Pavagadh Gayi Ti",
                         "subTitle": "",
                         "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/pavli-lay-ne-hu-to-pavagadh-gayi-ti-navratri-song-ringtone.mp3",
@@ -245,6 +237,14 @@
                         "subTitle": "",
                         "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Ramleela+Bgm.mp3",
                         "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/unnamed.jpg",
+                        "downloadLink": "",
+                        "otherImageItems": []
+                    },
+                    {
+                        "title": "Airtel Dandiya",
+                        "subTitle": "",
+                        "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/airtel-dandiya-navratri-song-ringtone.mp3",
+                        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Airtel-Celebrates-Navratri-Festival-With-mGolu-Contest.jpg",
                         "downloadLink": "",
                         "otherImageItems": []
                     }
