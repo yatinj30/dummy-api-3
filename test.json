@@ -1,10 +1,10 @@
 {
     "appTitle": "Navratri Ringtones & Aarti",
-    "appSplashLogo": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+copy.jpg",
+    "appSplashLogo": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Navratri+Ringtones+%26+Aarti.jpg",
     "mainScreenContent": {
         "mainListView": [
             {
-                "listName": "Latest",
+                "listName": "Latest Collection",
                 "isDisplay": true,
                 "itemDisplay": 4,
                 "songs": [
@@ -290,7 +290,7 @@
                 ]
             },
             {
-                "listName": "Arti",
+                "listName": "Aarti - Full Song",
                 "isDisplay": true,
                 "itemDisplay": 4,
                 "songs": [
@@ -353,7 +353,7 @@
                 ]
             },
             {
-                "listName": "Garba",
+                "listName": "Garba - Full Song",
                 "isDisplay": true,
                 "itemDisplay": 4,
                 "songs": [
@@ -440,7 +440,7 @@
                 ]
             },
             {
-                "listName": "Gujarati Rington",
+                "listName": "Gujarati Ringtone",
                 "isDisplay": true,
                 "itemDisplay": 4,
                 "songs": [
@@ -535,7 +535,7 @@
                 ]
             },
             {
-                "listName": "Bollywood Rington",
+                "listName": "Bollywood Ringtone",
                 "isDisplay": true,
                 "itemDisplay": 4,
                 "songs": [
@@ -590,7 +590,7 @@
                 ]
             },
             {
-                "listName": "Arti Rington",
+                "listName": "Aarti Ringtone",
                 "isDisplay": true,
                 "itemDisplay": 4,
                 "songs": [
@@ -629,7 +629,7 @@
                 ]
             },
             {
-                "listName": "Maa Rington",
+                "listName": "Maa Ringtone",
                 "isDisplay": true,
                 "itemDisplay": 4,
                 "songs": [
@@ -676,7 +676,7 @@
                 ]
             },
             {
-                "listName": "Traditional Garba Rington",
+                "listName": "Traditional Garba Ringtone",
                 "isDisplay": true,
                 "itemDisplay": 4,
                 "songs": [
@@ -933,7 +933,7 @@
         }
     ],
     "settingsPage": {
-        "mainImage": "https://ganesh-app.s3.ap-south-1.amazonaws.com/Images/pxfuel+copy.jpg",
+        "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Navratri+Ringtones+%26+Aarti.jpg",
         "privacyPolicy": "https://www.freeprivacypolicy.com/live/549e35bb-4390-4589-8ad2-f89ca1ada428",
         "termsCondition": "https://www.freeprivacypolicy.com/live/202c0bde-1847-4237-b892-91e19e0f2348",
         "shareTheApp": "Hey! I found a very good application to download Navratri Ringtones & Aarti. Download now, \n\n\n https://play.google.com/store/apps/details?id=com.uniquetechmedia.navratriringtonesnew",
